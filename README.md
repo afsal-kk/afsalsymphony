@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @afsalsymphony
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Machine Learning.
+- 📫 write2afsal@gmail.com
